@@ -1,9 +1,9 @@
-# Correction of Figure 3
+#   Correction of Figure 3
 
-In the version initially submitted, *the line representing RaT-BPTT was inaccurate*. Instead of showcasing the intended RaT-BPTT, it displayed a continued training version of BPTT with 40 steps unrolling. The accurate representation of the RaT-BPTT curve can be found in the following graph.
+In the version initially submitted, **the line representing RaT-BPTT was inaccurate**. Instead of showcasing the intended RaT-BPTT, it displayed a continued training version of BPTT with 40 steps unrolling. The accurate representation of the RaT-BPTT curve can be found in the following graph.
 
 <p align="middle">
-<img src="gradients.pdf" alt="Meta-gradient norm" width="66%"/>
+<img src="gradients.png" alt="Meta-gradient norm" width="66%"/>
 </p>
 
 # RaT-BPTT
